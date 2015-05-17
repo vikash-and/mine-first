@@ -1,0 +1,4 @@
+CREATE TABLE registration(registration_id INT NOT NULL AUTO_INCREMENT,registration_firstname VARCHAR(100) NOT NULL,registration_lastname VARCHAR(40) NOT NULL, registration_password VARCHAR(40),registration_email VARCHAR(40),PRIMARY KEY (registration_id));
+
+
+
