@@ -4,6 +4,6 @@
 	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
  
 	<import resource="Spring-Datasource.xml" />
-	<import resource="Spring-Register.xml" />
+	<import resource="Spring-register.xml" />
  
 </beans>
